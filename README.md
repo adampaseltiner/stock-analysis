@@ -3,7 +3,10 @@
 ## Overview of Project
   
 ### Purpose
-  For this project we wanted to help Steve analyze stock data by writing macros with Excel VBA code. By streamlining the analysis with VBA, we were able to look at the stock data from the years 2017 and 2018 and quickly display the percentage of positive or negative returns over that year. However, once we had completed that goal, our challenge was to refactor the code to run more efficiently.
+  For this project we wanted to help Steve analyze stock data by writing macros with Excel VBA code. By streamlining the analysis with VBA, we were able to look at the stock data from the years 2017 and 2018 and quickly display the percentage of positive or negative returns over that year. However, once we had completed that goal, our challenge was to refactor the code to run even more efficiently than the results of our previous code shown here:
+  
+  ![Slow_Code_2017](https://user-images.githubusercontent.com/82347825/116831861-e8cedf00-ab7f-11eb-830a-a8b1bb76a524.png)
+  ![Slow_Code_2018](https://user-images.githubusercontent.com/82347825/116831863-ec626600-ab7f-11eb-8d94-bd80ac23cf53.png)
   
 ---
 
