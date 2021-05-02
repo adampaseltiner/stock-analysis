@@ -160,7 +160,7 @@
   There are clear advantages to refactoring VBA code: 
     (1) It makes the code run much more efficiently, which would be immensely helpful for large scale programming and computation.
     (2) It also helps make the code much more organized and easier to read, which can be especially useful when sharing the code with others since it will be easier for them to       understand the steps the code goes through to accomplish the end goal.
-    (3) When code is refactored to be simpler and more organized it could ultimately be beneficial for future debugging purposes
+    (3) When code is refactored to be simpler and more organized it could ultimately be beneficial for future debugging purposes.
   
   There are, however, disadvantages that I can see stemming from refactoring: 
     Once you have successfully written code to achieve a certain goal but then begin to tinker with refactoring, you could potentially begin to create errors while making sure the variables, arrays, loops, etc., are all correctly linked to each other and functioning properly. 
@@ -173,5 +173,5 @@
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/82347825/116827894-8ec31f00-ab69-11eb-8b65-f11ab3fbeabc.png)
 
-  Refactoring would make sense if you were working on a data set so large that cutting down on the processing time would be beneficial and/or necessary. However, for a small scale project like this stock data with only ~3000 lines of data, diminishing the program run time probably does not matter much to Steve and refactoring would only cause more of a headache to the coder and also potentially lead to errors in an already working code.
+  Refactoring would make sense if you were working on a data set so large that cutting down on the processing time would be beneficial and/or necessary. However, for a small scale project like this with stock data filling only ~3000 line, diminishing the program run time probably does not matter much to Steve and refactoring would only cause more of a headache to the coder and also potentially lead to errors in an already working code.
   
