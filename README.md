@@ -8,7 +8,7 @@
   ![Slow_Code_2017](https://user-images.githubusercontent.com/82347825/116831861-e8cedf00-ab7f-11eb-830a-a8b1bb76a524.png)
   ![Slow_Code_2018](https://user-images.githubusercontent.com/82347825/116831863-ec626600-ab7f-11eb-8d94-bd80ac23cf53.png)
   
-  However, once we had accomplished that goal, our challenge was to refactor the code to run even more efficiently than the results of our previous code.
+  However, once we had accomplished that goal our challenge was to refactor the code to produce results even more quickly and efficiently than with our previous code.
 
 ---
 
@@ -171,7 +171,7 @@
     
     
 ### Advantages and Disadvantages of Original and Refactored VBA Script
-  The main advantage of having refactored our VBA script was the decrease in the code's run time, cutting it by nearly one fifth: where it first ran at nearly one second, the refactored code ran in less than 0.2 seconds:
+  The main advantage of having refactored our VBA script was the decrease in the code's run time, cutting it by nearly one fifth: where it first ran at around one second, the refactored code ran in less than 0.2 seconds:
   
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/82347825/116827889-8bc82e80-ab69-11eb-8f8f-3dc07b8a7729.png)
 
