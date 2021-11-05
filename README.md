@@ -3,7 +3,7 @@
 ## Overview of Project
   
 ### Purpose
-  For this project we wanted to help Steve analyze stock data by writing macros with Excel VBA code. By streamlining the analysis with VBA, we were able to look at the stock data from the years 2017 and 2018 and rapidly display the percentage of positive or negative returns over that year: 
+  For this project we wanted to analyze stock data by writing macros with Excel VBA code. By streamlining the analysis with VBA, we were able to look at the stock data from the years 2017 and 2018 and rapidly display the percentage of positive or negative returns over that year: 
   
   ![Slow_Code_2017](https://user-images.githubusercontent.com/82347825/116831861-e8cedf00-ab7f-11eb-830a-a8b1bb76a524.png)
   ![Slow_Code_2018](https://user-images.githubusercontent.com/82347825/116831863-ec626600-ab7f-11eb-8d94-bd80ac23cf53.png)
@@ -177,4 +177,4 @@
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/82347825/116827894-8ec31f00-ab69-11eb-8b65-f11ab3fbeabc.png)
 
-  Refactoring would make sense if you were working on an extremely large data set that cutting down on the processing time would be beneficial and/or necessary. However, for a small scale project like this with stock data filling only ~3000 lines, diminishing the program run time probably does not matter much to Steve and refactoring would only cause more of a headache to the coder and also potentially lead to errors in an already working code.
+  Refactoring would make sense if you were working on an extremely large data set that cutting down on the processing time would be beneficial and/or necessary. However, for a small scale project like this with stock data filling only ~3000 lines, diminishing the program run time probably does not matter much and refactoring would only cause more of a headache to the coder and also potentially lead to errors in an already working code.
